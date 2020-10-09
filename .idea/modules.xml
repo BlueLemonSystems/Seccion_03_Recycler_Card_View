@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Seccion_03_Recycler_Card_View.iml" filepath="$PROJECT_DIR$/Seccion_03_Recycler_Card_View.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seccion_03_Recycler_Card_View.iml" filepath="$PROJECT_DIR$/Seccion_03_Recycler_Card_View.iml" group="Seccion_03_Recycler_Card_View" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Seccion_03_Recycler_Card_View/app" />
     </modules>
   </component>
 </project>
